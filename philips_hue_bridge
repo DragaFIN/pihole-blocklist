@@ -1,0 +1,20 @@
+# A block list of domains used by Philips Hue Bridges
+# Last updated 25/11/2020
+
+diagnostics.meethue.com
+diagnostics.eethue.com
+dp.dc1.philips.com
+dcp.dc1.philips.com
+ws.meethue.com
+www2.meethue.com
+www.ecdinterface.philips.com
+brands.lighting.philips.com.edgekey.net
+dc1-elb-52-1014907170.eu-west-1.elb.amazonaws.com
+dc1-elb-60-1305627412.eu-west-1.elb.amazonaws.com
+
+# Time sync is OK
+#time1.google.com
+#time2.google.com
+#time3.google.com
+#time4.google.com
+#time5.google.com
